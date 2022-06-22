@@ -1,0 +1,15 @@
+/Users/ekaterinashliapnikova/examples/Example004_Div/bin/Debug/net6.0/Example004_Div
+/Users/ekaterinashliapnikova/examples/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/Users/ekaterinashliapnikova/examples/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/Users/ekaterinashliapnikova/examples/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/Users/ekaterinashliapnikova/examples/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/refint/Example004_Div.dll
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
+/Users/ekaterinashliapnikova/examples/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
