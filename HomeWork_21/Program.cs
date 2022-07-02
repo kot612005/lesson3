@@ -1,0 +1,12 @@
+﻿double x, y, z, x1, y1, z1, len;
+Console.Write("Введите координаты первой точки \n");
+x = Convert.ToDouble(Console.ReadLine());
+y = Convert.ToDouble(Console.ReadLine());
+z = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите координаты второй точки \n");
+x1 = Convert.ToDouble(Console.ReadLine());
+y1 = Convert.ToDouble(Console.ReadLine());
+z1 = Convert.ToDouble(Console.ReadLine());
+len = Math.Sqrt((x-x1)*(x-x1) + (y-y1)*(y-y1) + (z-z1)*(z-z1));
+Console.WriteLine("расстояние = ");
+Console.WriteLine(len);
