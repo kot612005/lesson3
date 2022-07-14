@@ -1,0 +1,15 @@
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.csproj.AssemblyReference.cache
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.AssemblyInfoInputs.cache
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.AssemblyInfo.cs
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.csproj.CoreCompileInputs.cache
+/Users/ekaterinashliapnikova/examples/HomeWork_50/bin/Debug/net6.0/HomeWork_50
+/Users/ekaterinashliapnikova/examples/HomeWork_50/bin/Debug/net6.0/HomeWork_50.deps.json
+/Users/ekaterinashliapnikova/examples/HomeWork_50/bin/Debug/net6.0/HomeWork_50.runtimeconfig.json
+/Users/ekaterinashliapnikova/examples/HomeWork_50/bin/Debug/net6.0/HomeWork_50.dll
+/Users/ekaterinashliapnikova/examples/HomeWork_50/bin/Debug/net6.0/HomeWork_50.pdb
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.dll
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/refint/HomeWork_50.dll
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.pdb
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/HomeWork_50.genruntimeconfig.cache
+/Users/ekaterinashliapnikova/examples/HomeWork_50/obj/Debug/net6.0/ref/HomeWork_50.dll
