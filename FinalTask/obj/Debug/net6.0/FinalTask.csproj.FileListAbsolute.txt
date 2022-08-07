@@ -1,0 +1,15 @@
+/Users/ekaterinashliapnikova/examples/FinalTask/bin/Debug/net6.0/FinalTask
+/Users/ekaterinashliapnikova/examples/FinalTask/bin/Debug/net6.0/FinalTask.deps.json
+/Users/ekaterinashliapnikova/examples/FinalTask/bin/Debug/net6.0/FinalTask.runtimeconfig.json
+/Users/ekaterinashliapnikova/examples/FinalTask/bin/Debug/net6.0/FinalTask.dll
+/Users/ekaterinashliapnikova/examples/FinalTask/bin/Debug/net6.0/FinalTask.pdb
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.csproj.AssemblyReference.cache
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfoInputs.cache
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfo.cs
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.dll
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/refint/FinalTask.dll
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.pdb
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/FinalTask.genruntimeconfig.cache
+/Users/ekaterinashliapnikova/examples/FinalTask/obj/Debug/net6.0/ref/FinalTask.dll
